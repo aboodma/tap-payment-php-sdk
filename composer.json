@@ -2,6 +2,7 @@
     "name": "aboodma/tap-payment-php",
     "description": "Tap Payment PHP SDK",
     "type": "library",
+    "version": "1.0.0",
     "require": {
         "php": ">=8.0",
         "guzzlehttp/guzzle": "^7.8"

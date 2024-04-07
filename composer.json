@@ -18,5 +18,6 @@
             "name": "Abdulrahman Mardinli",
             "email": "34406204+aboodma@users.noreply.github.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }

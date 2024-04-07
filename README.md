@@ -5,7 +5,7 @@ This is a PHP SDK for integrating with the Tap Payment API. It provides convenie
 
 ## Requirements
 
-- PHP >= 7.0
+- PHP >= 8.0
 - Composer
 
 ## Installation
